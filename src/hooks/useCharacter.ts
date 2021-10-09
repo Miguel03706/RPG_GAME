@@ -1,4 +1,4 @@
-import { Props, useState } from "react"
+import { useState } from "react"
 import { CharacterSides } from "../types/CharacterSides";
 import { mapSpots } from "../data/mapSpots"
 
